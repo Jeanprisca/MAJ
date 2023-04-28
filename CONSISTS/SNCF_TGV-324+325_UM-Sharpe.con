@@ -1,0 +1,108 @@
+SIMISA@@@@@@@@@@JINX0D0t______
+
+Train (
+	TrainCfg ( "SNCF_TGV-324+325_UM-Sharpes"
+		Serial ( 1 )
+		MaxVelocity ( 100.00000 0.38198 )
+		NextWagonUID ( 0 )
+		Durability ( 1.00000 )
+		Engine (
+			UiD ( 24047 )
+			EngineData ( Atl-M1-24047_FR-Sharpes SNCF_TGV-a-324 )
+		)
+		Wagon (
+			WagonData ( TGVR241324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 241324 )
+		)
+		Wagon (
+			WagonData ( TGVR242324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 242324 )
+		)
+		Wagon (
+			WagonData ( TGVR243324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 243324 )
+		)
+		Wagon (
+			WagonData ( TGVR244324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 244324 )
+		)
+		Wagon (
+			WagonData ( TGVR245324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 245324 )
+		)
+		Wagon (
+			WagonData ( TGVR246324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 246324 )
+		)
+		Wagon (
+			WagonData ( TGVR247324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 247324 )
+		)
+		Wagon (
+			WagonData ( TGVR248324-lacroix SNCF_TGV-a-324 )
+			UiD ( 248324 )
+		)
+		Wagon (
+			WagonData ( TGVR249324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 249324 )
+		)
+		Wagon (
+			WagonData ( TGVR240324-Lacroix SNCF_TGV-a-324 )
+			UiD ( 240324 )
+		)
+		Engine (
+			Flip ( )
+			UiD ( 24048 )
+			EngineData ( atl-M2-24048-att_FR-Sharpes SNCF_TGV-a-324 )
+		)
+		Engine (
+			UiD ( 24049 )
+			EngineData ( Atl-M1-24049-att_FR-Sharpes SNCF_TGV-a-325 )
+		)
+		Wagon (
+			WagonData ( TGVR241325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 241325 )
+		)
+		Wagon (
+			WagonData ( TGVR242325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 242325 )
+		)
+		Wagon (
+			WagonData ( TGVR243325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 243325 )
+		)
+		Wagon (
+			WagonData ( TGVR244325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 244325 )
+		)
+		Wagon (
+			WagonData ( TGVR245325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 245325 )
+		)
+		Wagon (
+			WagonData ( TGVR246325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 246325 )
+		)
+		Wagon (
+			WagonData ( TGVR247325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 247325 )
+		)
+		Wagon (
+			WagonData ( TGVR248325-lacroix SNCF_TGV-a-325 )
+			UiD ( 248325 )
+		)
+		Wagon (
+			WagonData ( TGVR249325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 249325 )
+		)
+		Wagon (
+			WagonData ( TGVR240325-Lacroix SNCF_TGV-a-325 )
+			UiD ( 240325 )
+		)
+		Engine (
+			Flip ( )
+			UiD ( 24050 )
+			EngineData ( atl-M2-24050_FR-Sharpes SNCF_TGV-a-325 )
+		)
+	)
+)
